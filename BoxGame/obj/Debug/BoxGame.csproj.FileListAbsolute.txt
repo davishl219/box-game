@@ -1,0 +1,8 @@
+C:\Users\Student\workspace\side-projects\box-game\BoxGame\bin\Debug\BoxGame.exe.config
+C:\Users\Student\workspace\side-projects\box-game\BoxGame\bin\Debug\BoxGame.exe
+C:\Users\Student\workspace\side-projects\box-game\BoxGame\bin\Debug\BoxGame.pdb
+C:\Users\Student\workspace\side-projects\box-game\BoxGame\obj\Debug\BoxGame.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\side-projects\box-game\BoxGame\obj\Debug\BoxGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\workspace\side-projects\box-game\BoxGame\obj\Debug\BoxGame.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\side-projects\box-game\BoxGame\obj\Debug\BoxGame.exe
+C:\Users\Student\workspace\side-projects\box-game\BoxGame\obj\Debug\BoxGame.pdb

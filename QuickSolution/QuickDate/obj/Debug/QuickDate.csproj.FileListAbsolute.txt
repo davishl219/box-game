@@ -1,0 +1,8 @@
+C:\Users\Student\workspace\side-projects\box-game\QuickSolution\QuickDate\bin\Debug\QuickDate.exe.config
+C:\Users\Student\workspace\side-projects\box-game\QuickSolution\QuickDate\bin\Debug\QuickDate.exe
+C:\Users\Student\workspace\side-projects\box-game\QuickSolution\QuickDate\bin\Debug\QuickDate.pdb
+C:\Users\Student\workspace\side-projects\box-game\QuickSolution\QuickDate\obj\Debug\QuickDate.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\side-projects\box-game\QuickSolution\QuickDate\obj\Debug\QuickDate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\workspace\side-projects\box-game\QuickSolution\QuickDate\obj\Debug\QuickDate.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\side-projects\box-game\QuickSolution\QuickDate\obj\Debug\QuickDate.exe
+C:\Users\Student\workspace\side-projects\box-game\QuickSolution\QuickDate\obj\Debug\QuickDate.pdb
